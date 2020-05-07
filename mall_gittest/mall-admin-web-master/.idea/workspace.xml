@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="274fcdab-622c-4c11-a69a-45e45a927d3e" name="Default Changelist" comment="" />
+    <list default="true" id="274fcdab-622c-4c11-a69a-45e45a927d3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/index.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,14 +108,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="116" key="CommitChangelistDialog2" timestamp="1588841829093">
+    <state x="494" y="116" key="CommitChangelistDialog2" timestamp="1588841969607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="494" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841829093" />
-    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1588841191793">
+    <state x="494" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841969607" />
+    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1588848592565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841191793" />
+    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588848592565" />
     <state x="184" y="85" key="MergeDialog" timestamp="1588841217429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588837839279" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1588841846102">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1588841981104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841846102" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841981104" />
     <state x="675" y="256" key="VcsDiffUtil.ChangesDialog" timestamp="1588840451970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
