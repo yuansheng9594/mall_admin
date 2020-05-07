@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/dev" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588841267748</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init project">
+      <created>1588841829641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588841829641</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,10 +105,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="116" key="CommitChangelistDialog2" timestamp="1588841267189">
+    <state x="494" y="116" key="CommitChangelistDialog2" timestamp="1588841829093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="494" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841267189" />
+    <state x="494" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841829093" />
     <state x="100" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1588841191793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,10 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588837839279" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1588841273310">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1588841846102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841273310" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588841846102" />
     <state x="675" y="256" key="VcsDiffUtil.ChangesDialog" timestamp="1588840451970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,6 +149,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="657" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841162412" />
+    <state x="542" y="397" key="git4idea.rebase.GitRebaseDialog" timestamp="1588841878132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="397" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841878132" />
     <state x="815" y="427" key="git4idea.ui.GitStashDialog" timestamp="1588840485341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
