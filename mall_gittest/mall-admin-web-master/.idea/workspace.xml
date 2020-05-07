@@ -94,10 +94,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="494" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588837929825" />
-    <state x="669" y="235" key="MultipleFileMergeDialog" timestamp="1588839947417">
+    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1588841191793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588839947417" />
+    <state x="100" y="100" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841191793" />
+    <state x="184" y="85" key="MergeDialog" timestamp="1588841217429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841217429" />
+    <state x="669" y="235" key="MultipleFileMergeDialog" timestamp="1588841220104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841220104" />
+    <state x="658" y="232" key="RollbackChangesDialog" timestamp="1588841193247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841193247" />
     <state x="463" y="151" key="SettingsEditor" timestamp="1588837839279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,13 +118,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588838838107" />
-    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1588840201467">
+    <state x="675" y="256" key="VcsDiffUtil.ChangesDialog" timestamp="1588840451970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588840201467" />
-    <state x="657" y="321" key="git4idea.merge.GitPullDialog" timestamp="1588838441274">
+    <state x="675" y="256" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588840451970" />
+    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1588841210632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="657" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588838441274" />
+    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841210632" />
+    <state x="749" y="321" key="git4idea.merge.GitMergeDialog" timestamp="1588840382163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="321" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588840382163" />
+    <state x="657" y="321" key="git4idea.merge.GitPullDialog" timestamp="1588841162412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588841162412" />
+    <state x="815" y="427" key="git4idea.ui.GitStashDialog" timestamp="1588840485341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="427" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588840485341" />
   </component>
 </project>
