@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="274fcdab-622c-4c11-a69a-45e45a927d3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-TEST.md" beforeDir="false" afterPath="$PROJECT_DIR$/README-TEST.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +106,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588838838107" />
-    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1588839940330">
+    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1588840201467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588839940330" />
+    <state x="675" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588840201467" />
     <state x="657" y="321" key="git4idea.merge.GitPullDialog" timestamp="1588838441274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
