@@ -1,0 +1,14 @@
+com\macro\mall\demo\config\RestTemplateConfig.class
+com\macro\mall\demo\controller\RestTemplateDemoController.class
+com\macro\mall\demo\config\MyBatisConfig.class
+com\macro\mall\demo\config\SecurityConfig$1.class
+com\macro\mall\demo\MallDemoApplication.class
+com\macro\mall\demo\validator\FlagValidator.class
+com\macro\mall\demo\config\SecurityConfig.class
+com\macro\mall\demo\service\DemoService.class
+com\macro\mall\demo\validator\FlagValidatorClass.class
+com\macro\mall\demo\controller\DemoController.class
+com\macro\mall\demo\bo\AdminUserDetails.class
+com\macro\mall\demo\config\Swagger2Config.class
+com\macro\mall\demo\dto\PmsBrandDto.class
+com\macro\mall\demo\service\impl\DemoServiceImpl.class

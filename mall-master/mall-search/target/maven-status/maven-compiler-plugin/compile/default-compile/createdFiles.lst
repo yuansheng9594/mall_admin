@@ -1,0 +1,12 @@
+com\macro\mall\search\repository\EsProductRepository.class
+com\macro\mall\search\config\MyBatisConfig.class
+com\macro\mall\search\service\EsProductService.class
+com\macro\mall\search\config\Swagger2Config.class
+com\macro\mall\search\service\impl\EsProductServiceImpl.class
+com\macro\mall\search\domain\EsProductRelatedInfo.class
+com\macro\mall\search\domain\EsProductAttributeValue.class
+com\macro\mall\search\domain\EsProductRelatedInfo$ProductAttr.class
+com\macro\mall\search\dao\EsProductDao.class
+com\macro\mall\search\domain\EsProduct.class
+com\macro\mall\search\controller\EsProductController.class
+com\macro\mall\search\MallSearchApplication.class

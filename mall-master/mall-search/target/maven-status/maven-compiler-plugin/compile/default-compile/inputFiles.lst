@@ -1,0 +1,11 @@
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\config\Swagger2Config.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\controller\EsProductController.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\dao\EsProductDao.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\service\EsProductService.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\MallSearchApplication.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\domain\EsProductRelatedInfo.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\repository\EsProductRepository.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\config\MyBatisConfig.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\domain\EsProduct.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\domain\EsProductAttributeValue.java
+D:\mall_master\mall-master\mall-search\src\main\java\com\macro\mall\search\service\impl\EsProductServiceImpl.java
