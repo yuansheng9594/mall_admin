@@ -70,6 +70,7 @@ public class PmsProductController {
         for(PmsProduct p:productList){
             p.setPrice(new BigDecimal("1"));
         }
+        productList = null;
         return CommonResult.success(CommonPage.restPage(productList));
     }
 
