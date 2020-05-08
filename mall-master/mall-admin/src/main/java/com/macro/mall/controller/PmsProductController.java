@@ -71,6 +71,7 @@ public class PmsProductController {
             p.setPrice(new BigDecimal("1"));
         }
         System.out.println("1111");
+        System.out.println("2222");
         productList = null;
         return CommonResult.success(CommonPage.restPage(productList));
     }
